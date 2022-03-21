@@ -28,11 +28,16 @@ Some links:
 
 - [List of software quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
 
+---
+
+## :star: Here you can see the theory as a web page
+
+[https://eugenia1984.github.io/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial](https://eugenia1984.github.io/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial)
 
 ---
 ## Tech stack 🛠️
 
-**HTML** and **CSS**
+**HTML** , **CSS** and **BOOTSTRAP**
 
 ---
 
@@ -48,7 +53,7 @@ Some links:
 
 ## Grades:
 
-I appreciate your interest in this repository ⌨️ with ❤️ from [María Eugenia Cost](https://github.com/eugenia1984) 😊 and follow me on [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
+I appreciate your interest in this repository ⌨️ with ❤️ from [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me on [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
 
 ---
 
@@ -65,7 +70,7 @@ Descubre el potencial de los patrones de diseño para crear sistemas de software
 
 ## Lista de enlaces a recursos para seguir aprendiendo
 
-Están en este repositorio de GitHub: [https://github.com/siddharta1337/Arquitectura-de-software-Patrones-Esencial](https://github.com/siddharta1337/Arquitectura-de-software-Patrones-Esencial)
+Están en este repositorio de GitHub: [https://eugenia1984.github.io/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial](https://eugenia1984.github.io/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial)
 
 Algunos links:
 
@@ -82,11 +87,17 @@ Algunos links:
 - [Listado de los atributos de calidad del software](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
 
 
+
+---
+## :star: Aca podes ver la teoria como una pagina web
+
+[https://github.com/eugenia1984/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial](https://github.com/eugenia1984/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial)
+
 ---
 
 ## Stack teconológico 🛠️
 
-**HTML** y **CSS**
+**HTML** , **CSS** y **BOOTSTRAP**
 
 ---
 
@@ -102,4 +113,4 @@ Algunos links:
 
 ## Notas: 
 
-Aprecio tu interés por este repositorio ⌨️ con ❤️ de [María Eugenia Cost](https://github.com/eugenia1984)  😊 y seguime en [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
+Aprecio tu interés por este repositorio ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984)  😊 y seguime en [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
