@@ -145,8 +145,20 @@
             <p>Su debilidad: al estar todo centralizado en un núcleo principal, no son fáciles de escalar para uso masivo. También requiere de un gran esfuerzo técnico (el núcleo central debe ser muy estable y necesita una API consistente y un sistema robusto y encasulado para que los plug-ins puedan funcionar adecuadamente).</p>
           </section>
           <section class="col col-sm-12 col-md-6 col-lg-4">
-             <h3>¿Qué es la arquitectura en capas múltiples ?</h3>
-            <p> </p>
+            <h3>¿Qué es la arquitectura en capas múltiples?</h3>
+            <p>Es uno de los patrones de diseño de arquitectura más conocidos, y de los más utilizados.</p>
+            <p>Su arquitectura está basada en Java, uno de los lenguajes más utiliados en la inductria del software. Aunque actualmente se puede aplicar a cualquier tipo de aplicación y lenguaje de programación.</p>
+            <p>También se la llama <strong>arquitectura multicapas</strong> y se basa en la separación de los procesos en unidades llamadas <strong>capas</strong>. Una capa es una unidad conceptual ilógica que cumple un rol específico dentro de la aplicación. Por ejemplo tenemos una capa dedicada únicamente a la lógica de presentación (todo lo relacionado a la parte visual de la aplicación) y cualquier cosa que no se relacione con esta unidad lógica debe ir en otra capa.</p>
+            <p>Existen muchas implementaciones de esta arquitectura con diferente cantidad de capas, según las necesidades y características dle proyecto, peor no hay un número específico de capas, por lo que es común referirse a este patrón como <strong>arquitectura de N capas</strong> para agrupar en forma general todas sus posibles versiones.</p>
+            <p>Suele tener <strong>tres capas  frecuentes</strong>:</p>
+            <ul>
+                <li>CAPA DE PRESENTACIÖN: frameworks de front end, inerfaces gráficas y aplicaciones móbiles. </li>
+                <li>CAPA DE NEGOCIO: middle-tier o capa intermedia. Es la encargada de realizar las tareas, cálculos y procesos que requiere la capa de presentación. Tieen código de programación en diferentes lenguajes o servicios en la nube como Lambdas.</li>
+                <li>CAPA DE DATOS: donde se almacena la información que producen los procesos de la aplicación y se despachan datos actualizados para desplegar. Aca están las bases de datos trabajando.</li>
+            </ul>
+            <p>Lo importante es el flujo y la comunicación entre capaz, deben ser un entorno separado que puede interactuar únicamente con las capas próximas y jamás saltarse una capa para interacturar con otra. La capa de presentación solo interactúa con la capa de negocio; la capa de negocio sñolo interactúa con la capa de datos, entonces la capa de presentación no tiene forma de acceder directamente a la capa de datos.</p>
+            <p>Un ejemplo es el stack MEAN o MERN (MongoDB -base de datos no relacional-, Express  -framework de backend-, REACT -librería de JavaScript para gestionar aplicaciones webs- y NODE -un servidor basado en JavaScript-.). En un sitio MERN , la CAPA DE PRESENTACION es REACT gestionando la interfaz del usuario, la CAPA DE NEGOCIO o middle-tier la puede manejar EXPRESS a través de una API REST full en Node y la CAPA DE DATOS con MongoDB. Los datos que produce REACT en la CAPA DE PRESENTACION se transportan a la API REST de la CAPA DE NEGOCIO y se almacena en MONGODB en la CAPA DE DATOS. React no puede acceder directamente a los datos de MONGODB, y este no tiene conocimiento de React. Hay capas lógicas aisladas entre sí.</p>
+            <p>Ventajas: como hay capaz separadas es fácil realizar pruebas unitarias y se reduce la aparición de errores al evitar que un problema en una capa pueda afectar a las demás. Es muy fácil de desarrollar y tiene una baja complejidad porque la mayoría de los programadores tiene familiaridad con sus conceptos. Sin embargo tiende a tener algunos problemas en condiciones que requieren muy alto rendimiento, y su estructura compleja a veces es difícil de escalar en la nube.</p>
           </section>
           <section class="col col-sm-12 col-md-6 col-lg-4">
             <h3>La arquitectura basada en espacio</h3>
