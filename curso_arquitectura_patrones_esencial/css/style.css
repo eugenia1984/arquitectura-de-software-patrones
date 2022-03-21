@@ -11,7 +11,7 @@
 :root {
   --bg-color-1: rgb(238, 236, 167);
   --bg-color-2: rgb(197, 232, 162);
-  --bg-color-3: rgb(241, 245, 27);
+  --bg-color-3: rgb(255, 255, 255);
   --bg-color-4: rgb(0, 0, 0);
 }
 
@@ -24,11 +24,8 @@ h2 {
 
 .header,
 .footer {
-  background-color: var(--bg-color-3) ;
-}
-
-.footer p {
-  text-align: center;
+  background-color: var(--bg-color-3);
+  padding: 0.5rem 0.25rem;
 }
 
 #introduccion,
@@ -63,3 +60,13 @@ span.navbar-toggler-icon {
 /*Patrones*/
 
 /*Implementando*/
+
+/* Footer */
+.footer p {
+  text-align: center;
+}
+
+.footer a {
+    text-decoration: none;
+    font-weight: 800;
+}
