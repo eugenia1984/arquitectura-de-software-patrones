@@ -12,17 +12,23 @@
   --bg-color-1: rgb(238, 236, 167);
   --bg-color-2: rgb(197, 232, 162);
   --bg-color-3: rgb(241, 245, 27);
+  --bg-color-4: rgb(0, 0, 0);
 }
 
 /*Generales*/
 h2 {
   text-align: center;
+  color: var(--bg-color-4);
   padding: 1.25rem 0.25rem;
 }
 
 .header,
 .footer {
   background-color: var(--bg-color-3) ;
+}
+
+.footer p {
+  text-align: center;
 }
 
 #introduccion,
@@ -35,14 +41,21 @@ h2 {
 }
 
 /* header*/
+.header a.navbar-brand,
 #navbarNav ul.navbar-nav a {
+  color: var(--bg-color-4);
   text-align: center;
+  text-decoration: none;
 }
 
+span.navbar-toggler-icon {
+  background-color: var(--bg-color-4);
+  color: var(--bg-color-4);
+}
 
 /* Main */
 
-/*Interoduccion*/
+/*Intoroduccion*/
 
 /*Patrones*/
 
