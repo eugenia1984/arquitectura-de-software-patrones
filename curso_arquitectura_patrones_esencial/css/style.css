@@ -6,3 +6,44 @@
 }
 
 *::after,*::before { box-sizing: inherit;}
+
+/* Variables*/
+:root {
+  --bg-color-1: rgb(238, 236, 167);
+  --bg-color-2: rgb(197, 232, 162);
+  --bg-color-3: rgb(241, 245, 27);
+}
+
+/*Generales*/
+h2 {
+  text-align: center;
+  padding: 1.25rem 0.25rem;
+}
+
+.header,
+.footer {
+  background-color: var(--bg-color-3) ;
+}
+
+#introduccion,
+#implementando {
+  background-color: var(--bg-color-1);
+}
+
+#patrones {
+  background-color: var(--bg-color-2);
+}
+
+/* header*/
+#navbarNav ul.navbar-nav a {
+  text-align: center;
+}
+
+
+/* Main */
+
+/*Interoduccion*/
+
+/*Patrones*/
+
+/*Implementando*/
