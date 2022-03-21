@@ -16,6 +16,10 @@
 }
 
 /*Generales*/
+main {
+  padding: 1rem;
+}
+
 h2 {
   text-align: center;
   color: var(--bg-color-4);
