@@ -32,11 +32,12 @@ h2 {
 }
 
 #introduccion,
-#implementando {
+#patrones {
   background-color: var(--bg-color-1);
 }
 
-#patrones {
+#disenio,
+#implementando {
   background-color: var(--bg-color-2);
 }
 
