@@ -38,11 +38,11 @@ h3 {
 }
 
 span.navbar-toggler-icon {
-  background-color: var(--bg-color-4);
+  background-color: var(--bg-color-2);
   color: var(--bg-color-4);
 }
 
-.nav-link a:hover {
+.nav-item a.nav-link:hover {
   background-color: var( --bg-color-2);
   font-weight: 600;
 }
