@@ -16,7 +16,8 @@
 }
 
 /*Generales*/
-h2 {
+h2, 
+h3 {
   text-align: center;
   color: var(--bg-color-4);
   padding: 1.25rem 0.25rem;
@@ -26,18 +27,6 @@ h2 {
 .footer {
   background-color: var(--bg-color-3);
   padding: 0.5rem 0.25rem;
-}
-
-#introduccion,
-#patrones {
-  background-color: var(--bg-color-1);
-  padding: 1rem;
-}
-
-#disenio,
-#implementando {
-  background-color: var(--bg-color-2);
-  padding: 1rem;
 }
 
 /* header*/
@@ -54,12 +43,20 @@ span.navbar-toggler-icon {
 }
 
 /* Main */
-
 /*Intoroduccion*/
-
 /*Patrones*/
-
 /*Implementando*/
+#introduccion,
+#patrones {
+  background-color: var(--bg-color-1);
+  padding: 1rem;
+}
+
+#disenio,
+#implementando {
+  background-color: var(--bg-color-2);
+  padding: 1rem;
+}
 
 /* Footer */
 .footer p {
