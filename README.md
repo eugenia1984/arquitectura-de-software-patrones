@@ -44,6 +44,8 @@ Some links:
 
 - [Examples in Java -> https://howtodoinjava.com/gang-of-four-java-design-patterns/](https://howtodoinjava.com/gang-of-four-java-design-patterns/)
 
+- [Design Patterns & Principles](https://www.youtube.com/playlist?app=desktop&list=PLLWMQd6PeGY3ob0Ga6vn1czFZfW6e-FLr)
+
 ---
 
 ## :star: Here you can see the theory as a web page
@@ -67,7 +69,7 @@ Some links:
 - Thank you very much 🤓.
 
 
-## Grades:
+## Thanks:
 
 I appreciate your interest in this repository ⌨️ with ❤️ from [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me on [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
 
@@ -119,6 +121,8 @@ Algunos links:
 - [https://refactoring.guru/design-patterns/catalog](https://refactoring.guru/design-patterns/catalog)
 
 - [Ejemplos Java -> https://howtodoinjava.com/gang-of-four-java-design-patterns/](https://howtodoinjava.com/gang-of-four-java-design-patterns/)
+
+- [Design Patterns & Principles](https://www.youtube.com/playlist?app=desktop&list=PLLWMQd6PeGY3ob0Ga6vn1czFZfW6e-FLr)
 
 ---
 ## :star: Aca podes ver la teoria como una pagina web
