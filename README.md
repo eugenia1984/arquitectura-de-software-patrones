@@ -38,6 +38,12 @@ Some links:
 
 - [List of software quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
 
+:star: Links that [Esteban Araujo](https://www.linkedin.com/in/esteban-araujo/) shared:
+
+- [https://refactoring.guru/design-patterns/catalog](https://refactoring.guru/design-patterns/catalog)
+
+- [Examples in Java -> https://howtodoinjava.com/gang-of-four-java-design-patterns/](https://howtodoinjava.com/gang-of-four-java-design-patterns/)
+
 ---
 
 ## :star: Here you can see the theory as a web page
@@ -107,6 +113,12 @@ Algunos links:
 - [Listado de los atributos de calidad del software](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
 
 
+
+:star: Links que[Esteban Araujo](https://www.linkedin.com/in/esteban-araujo/) compartió:
+
+- [https://refactoring.guru/design-patterns/catalog](https://refactoring.guru/design-patterns/catalog)
+
+- [Ejemplos Java -> https://howtodoinjava.com/gang-of-four-java-design-patterns/](https://howtodoinjava.com/gang-of-four-java-design-patterns/)
 
 ---
 ## :star: Aca podes ver la teoria como una pagina web
