@@ -71,7 +71,7 @@ Some links:
 
 ## Thanks:
 
-I appreciate your interest in this repository ⌨️ with ❤️ from [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me on [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
+I appreciate your interest in this repository ⌨️ with ❤️ from [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me on [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
 
 ---
 
@@ -149,4 +149,4 @@ Algunos links:
 
 ## Notas: 
 
-Aprecio tu interés por este repositorio ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984)  😊 y seguime en [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
+Aprecio tu interés por este repositorio ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984)  😊 y seguime en [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
