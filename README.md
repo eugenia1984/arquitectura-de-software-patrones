@@ -1,8 +1,14 @@
-ENGLISH
+# Patterns
 
-# Software architecture: essential patterns
+You can find 2 courses about patterns:
 
-LinkedIn Learning course by Carlos Solis.
+1.  Software architecture: essential patterns - LinkedIn Learning course by Carlos Solis
+
+2.
+
+---
+
+## 1 - Software architecture: essential patterns - LinkedIn Learning course by Carlos Solis
 
 Discover the potential of design patterns to create software systems. This content will show you the main design patterns used in the creation of software and how to use them to create solid systems, with good practices and using industry-proven solutions. Step by step, you will be introduced to the conceptual foundations of architecture design patterns and understand how they work, how to solve common problems when incorporating them, and finally, how to find the perfect pattern.
 
@@ -15,10 +21,17 @@ Topics:
 - Implementing patterns
 ```
 
+## :star: Here you can see the theory as a web page
+
+[/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial](https://eugenia1984.github.io/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial)
+
 ---
 
+## 2 - 
 
-## List of links to resources for further learning
+---
+
+## Resources for further learning
 
 They are in this GitHub repository: [https://github.com/siddharta1337/Software-Architecture-Patterns-Essential](https://github.com/siddharta1337/Software-Architecture-Patterns-Essential)
 
@@ -44,11 +57,6 @@ Some links:
 
 - [Design Patterns & Principles](https://www.youtube.com/playlist?app=desktop&list=PLLWMQd6PeGY3ob0Ga6vn1czFZfW6e-FLr)
 
----
-
-## :star: Here you can see the theory as a web page
-
-[/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial](https://eugenia1984.github.io/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial)
 
 ---
 
@@ -65,7 +73,6 @@ Some links:
 **TYPESCRIPT**
 
 ---
-
 
 ## Please: 🎁
 
