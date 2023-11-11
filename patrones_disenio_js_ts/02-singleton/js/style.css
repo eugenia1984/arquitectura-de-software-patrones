@@ -1,0 +1,41 @@
+*,
+        *::before,
+        *::after {
+            margin: 0;
+            padding: 0;
+        }
+
+        h1,
+        h2,
+        h3 {
+            text-align: center;
+            margin: 1rem 0.5rem;
+        }
+
+        main {
+            min-height: 100vh;
+            max-width: 700px;
+            margin: 2rem auto;
+        }
+
+        p {
+            margin: 1rem 0.5rem;
+            line-height: 1.8;
+        }
+
+        footer {
+            padding: 1.5rem 1rem;
+            text-align: center;
+            background-color: black;
+            color: white;
+        }
+
+        footer a {
+            text-decoration: none;
+            font-weight: 800;
+            color: white;
+            text-transform: uppercase;
+            position: sticky;
+            bottom: 0;
+            left: 0;
+        }

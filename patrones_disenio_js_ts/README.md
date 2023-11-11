@@ -20,6 +20,10 @@ Tener ya instalados:
 
 ---
 
+LOs **patrones de diseño** pueden ser: **creacionales**, **de estructura** o **de comportamiento**
+
+---
+
 ## ¿Qué hay ?
 
 - 01-INTRO: las carpeta de introducción con conceptos que hay que conocer de JavaScript y TypeScript, se ve el **paradigma funcional** de JavaScript: 
@@ -36,9 +40,35 @@ Tener ya instalados:
 -Interfaces en TS
 ```
 
-- 02-SINGLETON
+- 02-SINGLETON: creacional, da una técnica para crear objetos. Para cuand la persistencia del objeto nunca cambia, como en un calendario, los días de semana, por ejemplo. Se usa en inyección de dependecias.
 
-- 03-STRATEGY
+- 03-STRATEGY: de comportamiento, ayuda a poder tener comportamientos distintos en un objeto y poder agregar nuevos comportamientos, sin necesidad de modificar el contexto inicial. El contexto es el objeto central que va a unificar las cosas, y desde el que vamos a hacer el objeto. Es de los patrones más utilizados. La clase contexto tiene una estrategia y una acción, pudiendo agregar nuevos comportamientos.
+
+```
+--------------       --------------
+ <interface>            Context
+-------------   ---> --------------
+  IStrategy           aAttributes  
+------------          +IStrategy
+-Attributes           --------------
+------------           -Opeations 
+-Operations            +SomeAction() 
++Execute()            --------------
+------------
+       |
+ -----------------------------------
+ |                                 |
+-------------------       --------------------
+ ConcreteStrategyA         ConcreteStrategyB
+--------------------      --------------------
+-Attributes                 - Attributes
+--------------------      --------------------
+-Operations                -Operations
+ +Execute()                +Execute()
+--------------------     --------------------
+
+
+```
 
 - 04-OBSERVER
 
