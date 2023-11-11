@@ -37,6 +37,8 @@ Topics:
 
 - Each design pattern presented will have its implementation in both JavaScript and TypeScript.
 
+<img src="https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/eb402bed-aeca-43ca-b153-823392f563f9" width="400" alt="certificado de udemy" />
+
 ---
 
 ## <img width="48" height="48" src="https://img.icons8.com/fluency/48/book--v1.png" alt="book"/> Resources for further learning
