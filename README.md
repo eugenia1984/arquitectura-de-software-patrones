@@ -4,11 +4,11 @@ You can find 2 courses about patterns:
 
 1.  Software architecture: essential patterns - LinkedIn Learning course by Carlos Solis
 
-2.
+2. Design Paterns in JavaSCript and TypeScript - Udemy's course by Héctor de León
 
 ---
 
-## 1 - Software architecture: essential patterns - LinkedIn Learning course by Carlos Solis
+## <img width="48" height="48" src="https://img.icons8.com/color/48/spotted-patterns.png" alt="spotted-patterns"/> 1 - Software architecture: essential patterns - LinkedIn Learning course by Carlos Solis
 
 Discover the potential of design patterns to create software systems. This content will show you the main design patterns used in the creation of software and how to use them to create solid systems, with good practices and using industry-proven solutions. Step by step, you will be introduced to the conceptual foundations of architecture design patterns and understand how they work, how to solve common problems when incorporating them, and finally, how to find the perfect pattern.
 
@@ -21,17 +21,25 @@ Topics:
 - Implementing patterns
 ```
 
-## :star: Here you can see the theory as a web page
+##  Here you can see the theory as a web page
 
 [/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial](https://eugenia1984.github.io/arquitectura-de-software-patrones/curso_arquitectura_patrones_esencial)
 
 ---
 
-## 2 - 
+## <img width="48" height="48" src="https://img.icons8.com/color/48/spotted-patterns.png" alt="spotted-patterns"/> 2 - [/arquitectura-de-software-patrones/patrones_disenio_js_ts](https://eugenia1984.github.io/arquitectura-de-software-patrones/patrones_disenio_js_ts)
+
+- The implementation of the most used design patterns in the frontend.
+
+- Real cases where you can apply them
+
+- Tips on when to use a specific design pattern.
+
+- Each design pattern presented will have its implementation in both JavaScript and TypeScript.
 
 ---
 
-## Resources for further learning
+## <img width="48" height="48" src="https://img.icons8.com/fluency/48/book--v1.png" alt="book"/> Resources for further learning
 
 They are in this GitHub repository: [https://github.com/siddharta1337/Software-Architecture-Patterns-Essential](https://github.com/siddharta1337/Software-Architecture-Patterns-Essential)
 
@@ -62,15 +70,15 @@ Some links:
 
 ## Tech stack 🛠️
 
-**HTML**
+- <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html5"/>**HTML**
 
-**CSS** 
+- <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> **CSS** 
 
-**BOOTSTRAP**
+- <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="Bootstrap"/> **BOOTSTRAP**
 
-**JAVASCRIPT**
+- <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript"/> **JAVASCRIPT**
 
-**TYPESCRIPT**
+- <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="TypeScript"/> **TYPESCRIPT**
 
 ---
 
