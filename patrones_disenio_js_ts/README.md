@@ -44,33 +44,13 @@ LOs **patrones de diseño** pueden ser: **creacionales**, **de estructura** o **
 
 - 03-STRATEGY: de comportamiento, ayuda a poder tener comportamientos distintos en un objeto y poder agregar nuevos comportamientos, sin necesidad de modificar el contexto inicial. El contexto es el objeto central que va a unificar las cosas, y desde el que vamos a hacer el objeto. Es de los patrones más utilizados. La clase contexto tiene una estrategia y una acción, pudiendo agregar nuevos comportamientos.
 
-```
---------------       --------------
- <interface>            Context
--------------   ---> --------------
-  IStrategy           aAttributes  
-------------          +IStrategy
--Attributes           --------------
-------------           -Opeations 
--Operations            +SomeAction() 
-+Execute()            --------------
-------------
-       |
- -----------------------------------
- |                                 |
--------------------       --------------------
- ConcreteStrategyA         ConcreteStrategyB
---------------------      --------------------
--Attributes                 - Attributes
---------------------      --------------------
--Operations                -Operations
- +Execute()                +Execute()
---------------------     --------------------
+![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/5995f1a9-e702-431b-9b0f-532372b8ce7a)
 
-
-```
 
 - 04-OBSERVER
+
+![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/efc81499-d4f0-4509-86d7-89e7978667a7)
+
 
 - 05-DECORATOR
 
