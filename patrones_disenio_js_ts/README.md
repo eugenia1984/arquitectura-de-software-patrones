@@ -52,13 +52,22 @@ LOs **patrones de diseño** pueden ser: **creacionales**, **de estructura** o **
 ![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/efc81499-d4f0-4509-86d7-89e7978667a7)
 
 
-- 05-DECORATOR
+- 05-DECORATOR: de estructura
 
-- 06-BUILDER
+![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/c879435b-f544-4ef4-835a-0feedb3154bb)
 
-- 07-STATE
+- 06-BUILDER: creacional
 
-- 08-BRIDGE
+![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/f944038f-f363-4e34-8f8a-6ce0e43293fd)
+
+- 07-STATE: de comportamiento
+
+![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/af496ae1-306f-4cc2-80e4-6085a0a3df43)
+
+- 08-BRIDGE: es un puente, separa una implementación de la clase que la implementará, hay dos interfaces.
+
+![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/a1bd1ea3-97de-47c8-aac8-394610b1ab55)
+
 
 
 
