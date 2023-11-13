@@ -40,7 +40,7 @@ Los **patrones de diseño** pueden ser: **creacionales**, **de estructura** o **
 -Interfaces en TS
 ```
 
-- 02-SINGLETON: creacional, da una técnica para crear objetos. Para cuand la persistencia del objeto nunca cambia, como en un calendario, los días de semana, por ejemplo. Se usa en inyección de dependecias.
+- 02-SINGLETON: creacional, da una técnica para crear objetos. Para cuando la persistencia del objeto nunca cambia, como en un calendario, los días de semana, por ejemplo. Se usa en inyección de dependecias.
 
 - 03-STRATEGY: de comportamiento, ayuda a poder tener comportamientos distintos en un objeto y poder agregar nuevos comportamientos, sin necesidad de modificar el contexto inicial. El contexto es el objeto central que va a unificar las cosas, y desde el que vamos a hacer el objeto. Es de los patrones más utilizados. La clase contexto tiene una estrategia y una acción, pudiendo agregar nuevos comportamientos.
 
