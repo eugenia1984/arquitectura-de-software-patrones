@@ -20,7 +20,7 @@ Tener ya instalados:
 
 ---
 
-LOs **patrones de diseño** pueden ser: **creacionales**, **de estructura** o **de comportamiento**
+Los **patrones de diseño** pueden ser: **creacionales**, **de estructura** o **de comportamiento**
 
 ---
 
