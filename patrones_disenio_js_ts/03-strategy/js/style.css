@@ -39,3 +39,7 @@
             bottom: 0;
             left: 0;
         }
+
+        hr {
+            padding-top: 1rem;
+        }
