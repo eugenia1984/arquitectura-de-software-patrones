@@ -72,7 +72,7 @@ Se tiene:
 
 ![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/c879435b-f544-4ef4-835a-0feedb3154bb)
 
-- 06-**BUILDER**: creacional.
+- 06-**BUILDER**: creacional. Separa el contructor en un conjunto de métodos encadenados, que se los puede ir invocando o no.
 
 ![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/f944038f-f363-4e34-8f8a-6ce0e43293fd)
 
