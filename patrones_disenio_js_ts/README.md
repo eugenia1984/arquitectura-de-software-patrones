@@ -49,7 +49,21 @@ Me voy a evitar de tener varios switch cases, if, if-else.
 ![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/5995f1a9-e702-431b-9b0f-532372b8ce7a)
 
 
-- 04-**OBSERVER**:
+- 04-**OBSERVER**: de comportamiento. Teniendo un **objeto**, dicho objeto puede tener **estados** (las propiedades o campos que tiene la clase), cuanod uno de estos estados cambia se le avisa a los **observers**. El objeto clave es el **subject**, que es a quien se suscriben los observers, a los cuales se les notifica; cada observador ante la notificación puede hacer distintas cosas.
+
+Se usa mucho en el FrontEnd.
+
+Se tiene: 
+
+- un conjunto de observadores
+
+- un método de notificación, en el subject
+
+- un método de suscripción
+
+- un método de desuscripción
+
+- el observador tiene un métodod refresh
 
 ![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/efc81499-d4f0-4509-86d7-89e7978667a7)
 
