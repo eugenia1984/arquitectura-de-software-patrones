@@ -73,10 +73,12 @@ Se tiene:
 ![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/c879435b-f544-4ef4-835a-0feedb3154bb)
 
 - 06-**BUILDER**: creacional. Separa el cosntructor en un conjunto de métodos encadenados, que se los puede ir invocando o no.
+  
+Puede tener un **director**, que es una especie de recetario, donde se sabe que se tiene y en que orden.
 
 ![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/f944038f-f363-4e34-8f8a-6ce0e43293fd)
 
-- 07-**STATE**: de comportamiento
+- 07-**STATE**: de comportamiento. Hay un ámbito, un contexto el que puede tener un estado, y dependniendo el estado, su comportamiento. Puede compartir conocimiento entre sus mismas clases que van a ser los estados, y estas pueden cambiar el estado dle objeto principal.
 
 ![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/af496ae1-306f-4cc2-80e4-6085a0a3df43)
 
