@@ -68,7 +68,7 @@ Se tiene:
 ![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/efc81499-d4f0-4509-86d7-89e7978667a7)
 
 
-- 05-**DECORATOR**: de estructura.
+- 05-**DECORATOR**: de estructura. Nos soluciona como esta estructurada una clase, cuando se conforma una con otra, sirve para cuando hay que agregar mucha funcionalidad jerarquicamente, que vamos a ir agregando metodos por herencia. Es un envoltorio en funcionalidad, se le va agregando funcionalidad extra, el envoltorio ejecuta lo del padre más otra funcionalidad extra, sin tener que hacer herencia.
 
 ![image](https://github.com/eugenia1984/arquitectura-de-software-patrones/assets/72580574/c879435b-f544-4ef4-835a-0feedb3154bb)
 
