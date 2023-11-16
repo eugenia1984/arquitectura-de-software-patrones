@@ -8,7 +8,7 @@ You can find 2 courses about patterns:
 
 ---
 
-## <img width="48" height="48" src="https://img.icons8.com/color/48/spotted-patterns.png" alt="spotted-patterns"/> 1 - Software architecture: essential patterns - LinkedIn Learning course by Carlos Solis
+## <img width="40" height="40" src="https://img.icons8.com/color/40/spotted-patterns.png" alt="spotted patterns"/> 1 - Software architecture: essential patterns - LinkedIn Learning course by Carlos Solis
 
 Discover the potential of design patterns to create software systems. This content will show you the main design patterns used in the creation of software and how to use them to create solid systems, with good practices and using industry-proven solutions. Step by step, you will be introduced to the conceptual foundations of architecture design patterns and understand how they work, how to solve common problems when incorporating them, and finally, how to find the perfect pattern.
 
@@ -27,7 +27,7 @@ Topics:
 
 ---
 
-## <img width="48" height="48" src="https://img.icons8.com/color/48/spotted-patterns.png" alt="spotted-patterns"/> 2 - [/arquitectura-de-software-patrones/patrones_disenio_js_ts](https://eugenia1984.github.io/arquitectura-de-software-patrones/patrones_disenio_js_ts)
+## <img width="40" height="40" src="https://img.icons8.com/color/40/spotted-patterns.png" alt="spotted patterns"/> 2 - [/arquitectura-de-software-patrones/patrones_disenio_js_ts](https://eugenia1984.github.io/arquitectura-de-software-patrones/patrones_disenio_js_ts)
 
 - The implementation of the most used design patterns in the frontend.
 
